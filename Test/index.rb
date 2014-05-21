@@ -2,7 +2,7 @@
 def Hello
 puts "hi"
 end
-
+#Add the numbers
 def add 
 puts 2+2
 end
